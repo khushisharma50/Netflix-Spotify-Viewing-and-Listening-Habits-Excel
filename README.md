@@ -33,3 +33,6 @@ Streaming platforms collect massive amounts of user interaction data. This proje
 
 ## 🚀 How to Explore This Repo
 * `dasboard project.xlsx`: Contains the final polished Excel dashboard, Power Query steps, PivotTables, and data models.
+
+## 📄 Project Documentation
+* `Netflix_Spotify_Report.docx`: Detailed project report containing problem statements, methodology, data breakdown, and key visual insights.
